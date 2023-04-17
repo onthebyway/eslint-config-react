@@ -1,6 +1,6 @@
 module.exports = {
   // eslint-configs
-  extends: ['airbnb', 'plugin:import/recommended'],
+  extends: ['@onthebyway/eslint-config-typescript'],
   // eslint-plugins
   plugins: ['jsx-a11y', 'react-hooks', 'react'],
   env: {
