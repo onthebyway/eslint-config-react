@@ -18,6 +18,7 @@ module.exports = {
         ignore: ['css', 'tw'],
       },
     ],
+    'react/jsx-filename-extension': [2, { extensions: ['.js', '.jsx', '.ts', '.tsx'] }],
     'react/jsx-key': ['warn', { checkFragmentShorthand: true }],
     'react/prop-types': 'off',
     'react/jsx-props-no-spreading': 'off',
