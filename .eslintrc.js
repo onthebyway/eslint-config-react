@@ -20,6 +20,7 @@ module.exports = {
     ],
     'react/jsx-filename-extension': [2, { extensions: ['.js', '.jsx', '.ts', '.tsx'] }],
     'react/jsx-key': ['warn', { checkFragmentShorthand: true }],
+    'react/function-component-definition': [2, { namedComponents: 'arrow-function' }],
     'react/prop-types': 'off',
     'react/jsx-props-no-spreading': 'off',
     'react/react-in-jsx-scope': 'off',
