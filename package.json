@@ -23,10 +23,10 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/onthebyway/eslint-config-react"
   },
   "bugs": {
-    "url": ""
+    "url": "https://github.com/onthebyway/eslint-config-react/issues"
   },
-  "homepage": ""
+  "homepage": "https://github.com/onthebyway/eslint-config-react#readme"
 }
