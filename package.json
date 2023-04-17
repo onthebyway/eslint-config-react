@@ -1,0 +1,32 @@
+{
+  "name": "@onthebyway/eslint-config-react",
+  "version": "1.0.0",
+  "description": "byway eslint config react",
+  "main": "index.js",
+  "keywords": [
+    "style guide",
+    "lint",
+    "eslin",
+    "byway",
+    "airbnb"
+  ],
+  "author": "David M. Rainer <david@byway.at>",
+  "license": "ISC",
+  "peerDependencies": {
+    "eslint": "^8.38.0",
+    "prettier": "^2.8.7",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-jsx-a11y": "^6.7.1",
+    "eslint-plugin-react": "^7.32.2",
+    "eslint-plugin-react-hooks": "^4.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
